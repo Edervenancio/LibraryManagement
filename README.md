@@ -23,6 +23,6 @@ em Laravel, em especial, o Eloquent.</p>
 <li>Troque no arquivo .env do projeto, as especificações do banco de dados (DB_USERNAME, PASSWORD...)</li>
 <li>Feito e rodando o banco de dados, realize o comando <b>php artisan migrate</b></li>
 <li>Quando a migration estiver completa, digite <b>php artisan db:seed</b> para obter os dados e tabelas de nosso projeto.</li>
-<li>Rode o comando <b>npm run dev</b>, se necessário, use também <b>npm install</b> para obter as dependências. Isso fará com que seja possível obter o bootstrap e a estilização em geral do site.</li>
+<li>Rode o comando <b>npm install</b> para obter as dependências, após, escreva <b>npm run dev</b>. Isso fará com que seja possível obter o bootstrap e a estilização em geral do site.</li>
 <li>Após isso, rode <b>php artisan serve</b> para inicializar o projeto e aproveite..</li>
 </ol>
